@@ -1,6 +1,4 @@
-# learn_go_basic
-
-# Go generate
+### Go generate
 
 - Example:
 
